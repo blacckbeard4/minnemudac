@@ -1,7 +1,7 @@
 # 👥 MinneMUDAC 2025 Winners — Predicting Match Longevity for Big Brothers Big Sisters
 
 🎉 We’re thrilled to share our **award-winning submission** for [MinneMUDAC 2025](https://minneanalytics.org/)!  
-Our team, **We Push to Prod**, placed **2nd overall** for building an end-to-end machine learning pipeline to predict how long a volunteer mentorship match will last at **Big Brothers Big Sisters Twin Cities (BBBSTC)**.
+Our team, **We Push to Prod**, placed **2nd overall** for building an end-to-end machine learning pipeline to predict how long a volunteer mentorship match will last at **Big Brothers Big Sisters Twin Cities**.
 
 ---
 
@@ -16,7 +16,7 @@ Our team, **We Push to Prod**, placed **2nd overall** for building an end-to-end
 
 - **Structured data**: Match metadata, demographic attributes, census-level community features  
 - **Unstructured data**: Match support notes, closure descriptions  
-- **Source**: Provided by Big Brothers Big Sisters Twin Cities (BBBSTC)
+- **Source**: Provided by Big Brothers Big Sisters Twin Cities
 
 ---
 
