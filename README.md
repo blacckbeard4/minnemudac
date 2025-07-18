@@ -64,25 +64,23 @@ To improve early detection of at-risk matches, we developed a structured, decisi
 
 ### 🚫 Mentor Decision Tree – Not Currently Meeting
 
-<p align="center">
-  <img src="https://i.imgur.com/iPRLGFk.png" width="700">
-</p>
+<img width="1172" height="661" alt="image" src="https://github.com/user-attachments/assets/6fcd6db8-7d56-4f75-9075-44fce509fb61" />
+
+
 
 ---
 
 ### ✅ Mentor Decision Tree – Currently Meeting
 
-<p align="center">
-  <img src="https://i.imgur.com/L9F4GHg.png" width="700">
-</p>
+<img width="1171" height="661" alt="image" src="https://github.com/user-attachments/assets/3b18c359-fad0-4b47-a238-290ca851633f" />
+
+
 
 ---
 
 ### 👥 Mentee Decision Tree
 
-<p align="center">
-  <img src="https://i.imgur.com/nqmDblG.png" width="700">
-</p>
+<img width="1171" height="660" alt="image" src="https://github.com/user-attachments/assets/40c988a7-d8ac-40f1-b5a3-6f1b00a68923" />
 
 ---
 
